@@ -29,7 +29,7 @@
   <!-- Languages & Systems -->
   <p><strong>Languages & Systems</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,rust,java,python,ts,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,rust,java,python,ts,js,c&theme=dark" />
   </a>
   <br/><br/>
 
@@ -43,7 +43,7 @@
   <!-- Databases & Cloud / DevOps -->
   <p><strong>Data, Cloud & DevOps</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,githubactions,supabase&theme=dark" />
   </a>
 </div>
 
@@ -56,36 +56,36 @@
     <td width="50%" valign="top">
       <h3 align="center">Company Document Portal</h3>
       <p>Microservices-based document management platform incorporating AI-powered RAG for semantic document querying, resumable large file uploads via the TUS protocol, and secure authentication with Keycloak.</p>
-      <p><strong>Stack:</strong> Kotlin, Spring Boot, Spring AI, pgvector, React, Keycloak, MinIO, Docker[cite: 1]</p>
+      <p><strong>Stack:</strong> Kotlin, Spring Boot, Spring AI, pgvector, React, Keycloak, MinIO, Docker</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Remote-File-System</h3>
       <p>A client-server remote file management system developed in Rust. Features asynchronous network operations and structured inode-based storage for high performance and low-level data consistency.</p>
-      <p><strong>Stack:</strong> Rust, Async I/O, Systems Programming, Inode Architecture[cite: 1]</p>
+      <p><strong>Stack:</strong> Rust, Async I/O, Systems Programming, Inode Architecture</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Mobile Cooking Manual</h3>
       <p>Native Android recipe application designed around Clean Architecture and the MVI-lite pattern. Offers interactive preparation workflows, dietary tracking, and offline/cloud data persistence.</p>
-      <p><strong>Stack:</strong> Android, Kotlin, Jetpack Compose, MVI-lite, Firebase / Firestore[cite: 1]</p>
+      <p><strong>Stack:</strong> Android, Kotlin, Jetpack Compose, MVI-lite, Firebase / Firestore</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Participium</h3>
       <p>Collaborative municipal issue-tracking platform allowing citizens to report urban problems through an interactive map, backed by an administrative triage workflow.</p>
-      <p><strong>Stack:</strong> React, TypeScript, REST APIs, Collaborative Team Project[cite: 1]</p>
+      <p><strong>Stack:</strong> React, TypeScript, REST APIs, Collaborative Team Project</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Gioco della Sfortuna</h3>
       <p>Web-based card game (Stuff Happens) featuring secure user authentication, interactive turn rounds, match history tracking, and global statistics via a dedicated dashboard.</p>
-      <p><strong>Stack:</strong> React, Node.js, Express, Authentication, Dashboard[cite: 1]</p>
+      <p><strong>Stack:</strong> React, Node.js, Express, Authentication, Dashboard</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CityAds</h3>
       <p>Real estate platform allowing property owners to manage listing inventories and enabling clients to conveniently schedule in-person or remote property visits.</p>
-      <p><strong>Stack:</strong> Python, Flask, SQLite, Relational Design[cite: 1]</p>
+      <p><strong>Stack:</strong> Python, Flask, SQLite, Relational Design</p>
     </td>
   </tr>
 </table>
